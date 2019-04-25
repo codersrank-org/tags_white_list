@@ -44,7 +44,6 @@ font	A font is a particular style of typeface for text.
 front end	Front end is the programming and layout that people see and interact with.	
 game engine	A game engine is a software framework used to develop and create video games.	
 git	Git is the most widely used version control system.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
-go	Go is a programming language built to resemble a simplified version of the C programming language.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
 gradle	Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png
 graphql	GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.	https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png
 gulp	Gulp is a toolkit for automating and streamlining web development.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png
