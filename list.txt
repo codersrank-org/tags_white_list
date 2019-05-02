@@ -53,8 +53,7 @@ http	HTTP (Hypertext Transfer Protocol) is the standard for communication across
 ios	iOS is the operating system for Apple's mobile products.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png
 IoT		
 ipfs	IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png
-javamail	JavaMail API provides a framework to build mail and messaging
-applications 
+javamail	JavaMail API provides a framework to build mail and messaging applications 
 jekyll	Jekyll is a simple, blog-aware static site generator.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png
 jquery	jQuery is a lightweight library that simplifies programming with JavaScript.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png
 json	JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png
