@@ -5,6 +5,7 @@ amp	Amp is a non-blocking concurrency framework for PHP.	https://raw.githubuserc
 android	Android is an operating system built by Google designed for mobile devices.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
 angular	Angular is an open source web application platform.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
 ansible	Ansible is a simple and powerful automation engine.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png
+apache-spark	Apache Spark is an open source distributed data processing engine.	https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png
 arduino	Arduino is an open source hardware and software company and maker community.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
 atom	Atom is a open source text editor built with web technologies.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png
 aws	Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.	https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
@@ -90,6 +91,7 @@ postgresql	PostgreSQL is an open source database system.	https://raw.githubuserc
 project management	Project management is about building scope and executing on the project's goals.	
 publishing	Publishing is the dissemination of making information available to the general public through various mediums.	
 pwa	Progressive Web Apps are traditional web sites that are enhanced with native like features.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png
+pyspark	The Spark Python API (PySpark) exposes the apache-spark programming model to Python.	
 qt	Qt, pronounced "cute", is a cross-platform application development framework.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png
 rails	Ruby on Rails (Rails) is a web application framework written in Ruby.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png
 raspberry pi	The Raspberry Pi is a popular single-board computer.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
