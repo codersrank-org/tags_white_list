@@ -18,7 +18,8 @@ bot	A bot is an application that runs automated tasks over the Internet.
 chrome	Chrome is a web browser from the tech company Google.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png
 chrome extension	Google Chrome Extensions are add-ons that allow users to customize their Chrome web browser.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png
 CLI	A CLI, or command-line interface, is a console that helps users issue commands to a program.	
-compiler	Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).	
+compiler	Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).
+computer-vision	Computer vision is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.		
 continuous integration	Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.	
 cryptocurrency	A cryptocurrency is a digital currency that uses cryptography.	
 data visualization	Data visualization is the graphic representation of data and trends.	
