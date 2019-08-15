@@ -58,8 +58,6 @@ ipfs	IPFS is a peer-to-peer protocol for content-addressed sharing of data via a
 javamail	JavaMail API provides a framework to build mail and messaging applications 
 jekyll	Jekyll is a simple, blog-aware static site generator.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png
 jquery	jQuery is a lightweight library that simplifies programming with JavaScript.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png
-json	JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png
-jupyter notebook	Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
 koa	Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.	https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png
 kubernetes	Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 laravel	Laravel is a PHP framework.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png
@@ -110,7 +108,6 @@ scikit-learn	scikit-learn is a Python module for machine learning.	https://raw.g
 software-defined networking	Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.	
 security	Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.	
 serverless	Serverless architecture refers to apps that depend on third-party services or custom code.	
-shell	A shell is a command-line tool, designed to be run by the Unix shell.	
 sketch	Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.	https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png
 spacevim	SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png
 spring boot	Spring Boot is a coding and configuration model for Java applications.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
@@ -127,7 +124,6 @@ unreal engine	Unreal Engine is used to create awesome games, and experiences for
 vagrant	Vagrant is an open-source software product for building and maintaining portable virtual software development environments.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png
 vim	Vim is a console-run text editor program.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png
 virtual reality	Virtual reality is an artificial environment displayed through digital means.	
-vue.js	Vue.js is a JavaScript framework for building interactive web applications.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
 wagtail	Wagtail is an open source CMS written in Python and built on the Django web framework.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wagtail/wagtail.png
 web components	Web Components are a set of web platform APIs developers can use to create custom HTML tags.	https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-components/web-components.png
 web app	A web application is any computer program that performs a specific function by using a web browser as its client.	
