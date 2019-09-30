@@ -14,3 +14,5 @@ The format is as follows:
       "image": "Image URL"
     },
 ```
+
+Both description and image are optional
