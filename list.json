@@ -1,0 +1,489 @@
+{
+    "3d": {
+      "description": "3D modeling is the process of virtually developing the surface and structure of a 3D object."
+    },
+    "ajax": {
+      "description": "Ajax is a technique for creating interactive web applications."
+    },
+    "amp": {
+      "description": "Amp is a non-blocking concurrency framework for PHP.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/amphp/amphp.png"
+    },
+    "android": {
+      "description": "Android is an operating system built by Google designed for mobile devices.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
+    },
+    "angular": {
+      "description": "Angular is an open source web application platform.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
+    },
+    "ansible": {
+      "description": "Ansible is a simple and powerful automation engine.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"
+    },
+    "apache-spark": {
+      "description": "Apache Spark is an open source distributed data processing engine.",
+      "image": "https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png"
+    },
+    "arduino": {
+      "description": "Arduino is an open source hardware and software company and maker community.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"
+    },
+    "atom": {
+      "description": "Atom is a open source text editor built with web technologies.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"
+    },
+    "aws": {
+      "description": "Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.",
+      "image": "https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"
+    },
+    "azure": {
+      "description": "Azure is a cloud computing service created by Microsoft.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"
+    },
+    "babel": {
+      "description": "Babel is a compiler for writing next generation JavaScript, today.",
+      "image": "https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"
+    },
+    "bitcoin": {
+      "description": "Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"
+    },
+    "blockchain": {
+      "description": "Blockchains are distributed ledgers that can record transactions between parties in a verifiable and permanent way."
+    },
+    "bootstrap": {
+      "description": "Bootstrap is an HTML, CSS, and JavaScript framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+    },
+    "bot": {
+      "description": "A bot is an application that runs automated tasks over the Internet."
+    },
+    "chrome": {
+      "description": "Chrome is a web browser from the tech company Google.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"
+    },
+    "chrome extension": {
+      "description": "Google Chrome Extensions are add-ons that allow users to customize their Chrome web browser.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png"
+    },
+    "CLI": {
+      "description": "A CLI, or command-line interface, is a console that helps users issue commands to a program."
+    },
+    "compiler": {
+      "description": "Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code)."
+    },
+    "computer-vision": {
+      "description": "Computer vision is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do."
+    },
+    "continuous integration": {
+      "description": "Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production."
+    },
+    "cryptocurrency": {
+      "description": "A cryptocurrency is a digital currency that uses cryptography."
+    },
+    "data visualization": {
+      "description": "Data visualization is the graphic representation of data and trends."
+    },
+    "database": {
+      "description": "A database is a structured set of data held in a computer, usually a server."
+    },
+    "deep learning": {
+      "description": "Deep Learning is an artificial neural network composed of many layers."
+    },
+    "dependency management": {
+      "description": "Secure and manage your third-party dependencies."
+    },
+    "deployment": {
+      "description": "Streamline your code deployment so you can focus on your product."
+    },
+    "django": {
+      "description": "Django is a web application framework for Python.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
+    },
+    "docker": {
+      "description": "Docker is a platform built for developers to build and run applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+    },
+    "documentation": {
+      "description": "Documentation is a set of information that describes a product to its users."
+    },
+    ".net": {
+      "description": ".NET is a free, cross-platform, open source developer platform.",
+      "image": "https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"
+    },
+    "electron": {
+      "description": "Electron is a framework for building cross-platform desktop applications with web technology.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"
+    },
+    "emacs": {
+      "description": "Emacs is an extensible, customizable, free text editor and computing environment.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"
+    },
+    "ember": {
+      "description": "Ember is a framework for creating web applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ember/ember.png"
+    },
+    "emoji": {
+      "description": "Emojis are graphic symbols that represent an emotion, object, or concept."
+    },
+    "emulator": {
+      "description": "An emulator is any hardware or software that allows one computer to behave like another."
+    },
+    "eslint": {
+      "description": "The pluggable linting utility for JavaScript and JSX.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"
+    },
+    "ethereum": {
+      "description": "Ethereum is a distributed public blockchain network.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"
+    },
+    "express": {
+      "description": "Express is a minimal Node.js framework for web and mobile applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
+    },
+    "firebase": {
+      "description": "Firebase is a mobile app development platform that provides data analysis and database web services for developers.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+    },
+    "firefox": {
+      "description": "Firefox is an open source web browser from Mozilla.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firefox/firefox.png"
+    },
+    "flask": {
+      "description": "Flask is a web framework for Python based on the Werkzeug toolkit.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"
+    },
+    "font": {
+      "description": "A font is a particular style of typeface for text."
+    },
+    "front end": {
+      "description": "Front end is the programming and layout that people see and interact with."
+    },
+    "game engine": {
+      "description": "A game engine is a software framework used to develop and create video games."
+    },
+    "git": {
+      "description": "Git is the most widely used version control system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    },
+    "gradle": {
+      "description": "Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png"
+    },
+    "graphql": {
+      "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.",
+      "image": "https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"
+    },
+    "gulp": {
+      "description": "Gulp is a toolkit for automating and streamlining web development.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"
+    },
+    "homebrew": {
+      "description": "Homebrew is a package manager for macOS.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png"
+    },
+    "homebridge": {
+      "description": "Homebridge is a utility for tying smart home devices together into Apple’s HomeKit framework, controlled by Siri."
+    },
+    "http": {
+      "description": "HTTP (Hypertext Transfer Protocol) is the standard for communication across the web."
+    },
+    "ios": {
+      "description": "iOS is the operating system for Apple's mobile products.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"
+    },
+    "IoT": {
+    },
+    "ipfs": {
+      "description": "IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png"
+    },
+    "javamail": {
+      "description": "JavaMail API provides a framework to build mail and messaging applications"
+    },
+    "jekyll": {
+      "description": "Jekyll is a simple, blog-aware static site generator.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png"
+    },
+    "jquery": {
+      "description": "jQuery is a lightweight library that simplifies programming with JavaScript.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"
+    },
+    "koa": {
+      "description": "Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.",
+      "image": "https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png"
+    },
+    "kubernetes": {
+      "description": "Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"
+    },
+    "laravel": {
+      "description": "Laravel is a PHP framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"
+    },
+    "latex": {
+      "description": "LaTeX is a document preparation system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"
+    },
+    "machine learning": {
+      "description": "Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently."
+    },
+    "macos": {
+      "description": "macOS is Apple's operating system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"
+    },
+    "mastodon": {
+      "description": "Mastodon is a free, decentralized, open-source microblogging network.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mastodon/mastodon.png"
+    },
+    "material design": {
+      "description": "Material design is a unified system of theory and tools for creating digital experiences developed by Google.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"
+    },
+    "maven": {
+      "description": "Maven is a build automation tool used primarily for Java projects.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"
+    },
+    "mobile": {
+      "description": "Mobile apps, mobile OS, mobile databases, & mobile testing frameworks."
+    },
+    "monero": {
+      "description": "Monero is a private, fungible, open source, decentralized cryptocurrency.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/monero/monero.png"
+    },
+    "mongodb": {
+      "description": "MongoDB is an open source NoSQL document-oriented database.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+    },
+    "mongoose": {
+      "description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
+    },
+    "monitoring": {
+      "description": "Monitor the impact of your code changes. Measure performance, track errors, and analyze your application."
+    },
+    "mvvmcross": {
+      "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows, and Mac.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mvvmcross/mvvmcross.png"
+    },
+    "mysql": {
+      "description": "MySQL is an open source relational database management system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+    },
+    "nativescript": {
+      "description": "NativeScript is a JavaScript-native mobile framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png"
+    },
+    "NLP": {
+      "description": "Natural language processing (NLP) is the study of how computers and humans interact."
+    },
+    "node.js": {
+      "description": "Node.js is a tool for executing JavaScript in a variety of environments.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+    },
+    "nosql": {
+      "description": "A NoSQL database refers to a database whose storage format is modeled differently from relational databases."
+    },
+    "npm": {
+      "description": "npm is a package manager for JavaScript included with Node.js.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
+    },
+    "opengl": {
+      "description": "OpenGL is a software interface that allows a programmer to communicate with graphics hardware.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"
+    },
+    "operating system": {
+      "description": "An operating system is a program that manages a computer's programs and applications."
+    },
+    "p2p": {
+      "description": "Peer-to-Peer applications are decentralized or distributed."
+    },
+    "package manager": {
+      "description": "A package manager is a set of tools that automates and manages computer software."
+    },
+    "language parsing": {
+      "description": "Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar."
+    },
+    "phaser": {
+      "description": "Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.",
+      "image": "https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png"
+    },
+    "pico-8": {
+      "description": "PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs in Lua.",
+      "image": "https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png"
+    },
+    "postgresql": {
+      "description": "PostgreSQL is an open source database system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
+    },
+    "project management": {
+      "description": "Project management is about building scope and executing on the project's goals."
+    },
+    "publishing": {
+      "description": "Publishing is the dissemination of making information available to the general public through various mediums."
+    },
+    "pwa": {
+      "description": "Progressive Web Apps are traditional web sites that are enhanced with native like features.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"
+    },
+    "pyspark": {
+      "description": "The Spark Python API (PySpark) exposes the apache-spark programming model to Python."
+    },
+    "qt": {
+      "description": "Qt, pronounced \"cute\", is a cross-platform application development framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"
+    },
+    "rails": {
+      "description": "Ruby on Rails (Rails) is a web application framework written in Ruby.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"
+    },
+    "raspberry pi": {
+      "description": "The Raspberry Pi is a popular single-board computer.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"
+    },
+    "ratchet": {
+      "description": "Ratchet is a set of libraries to handle WebSockets asynchronously in PHP.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ratchet/ratchet.png"
+    },
+    "react": {
+      "description": "React is an open source JavaScript library used for designing user interfaces.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+    },
+    "react native": {
+      "description": "React Native is a JavaScript mobile framework developed by Facebook.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"
+    },
+    "reactiveui": {
+      "description": "ReactiveUI is a composable, cross-platform model-view-viewmodel framework for all .NET platforms.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png"
+    },
+    "redux": {
+      "description": "Redux is a predictable state container for JavaScript apps.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
+    },
+    "rest api": {
+      "description": "A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet."
+    },
+    "robotics": {
+      "description": ""
+    },
+    "rxjava": {
+      "description": "Reactive Programming in Java",
+      "image": "https://avatars1.githubusercontent.com/u/6407041?s=400&v=4"
+    },
+    "rxswift": {
+      "description": "",
+      "image": "https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png"
+    },
+    "sass": {
+      "description": "",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+    },
+    "scikit-learn": {
+      "description": "scikit-learn is a Python module for machine learning.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
+    },
+    "software-defined networking": {
+      "description": "Software-defined networking (SDN) is an architecture for programmable, centrally managed networks."
+    },
+    "security": {
+      "description": "Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent."
+    },
+    "serverless": {
+      "description": "Serverless architecture refers to apps that depend on third-party services or custom code."
+    },
+    "sketch": {
+      "description": "Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.",
+      "image": "https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png"
+    },
+    "spacevim": {
+      "description": "SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png"
+    },
+    "spring boot": {
+      "description": "Spring Boot is a coding and configuration model for Java applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"
+    },
+    "storybook": {
+      "description": "Storybook is a UI development environment for your UI components.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"
+    },
+    "symfony": {
+      "description": "Symfony is a set of reusable PHP components and a web framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"
+    },
+    "tensorflow": {
+      "description": "TensorFlow is an open source software library for numerical computation.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"
+    },
+    "terminal": {
+      "description": "The terminal is an interface in which you can type and execute text-based commands.",
+      "image": "https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"
+    },
+    "terraform": {
+      "description": "An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"
+    },
+    "testing": {
+      "description": "Eliminate bugs and ship with more confidence by adding these tools to your workflow."
+    },
+    "twitter": {
+      "description": "Twitter is an online news and social networking service where users post and interact with messages, known as “Tweets”.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"
+    },
+    "ubuntu": {
+      "description": "Ubuntu is a Linux-based operating system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"
+    },
+    "unity": {
+      "description": "Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"
+    },
+    "unreal engine": {
+      "description": "Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"
+    },
+    "vagrant": {
+      "description": "Vagrant is an open-source software product for building and maintaining portable virtual software development environments.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"
+    },
+    "vim": {
+      "description": "Vim is a console-run text editor program.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"
+    },
+    "virtual reality": {
+      "description": "Virtual reality is an artificial environment displayed through digital means."
+    },
+    "wagtail": {
+      "description": "Wagtail is an open source CMS written in Python and built on the Django web framework.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wagtail/wagtail.png"
+    },
+    "web components": {
+      "description": "Web Components are a set of web platform APIs developers can use to create custom HTML tags.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-components/web-components.png"
+    },
+    "web app": {
+      "description": "A web application is any computer program that performs a specific function by using a web browser as its client."
+    },
+    "webpack": {
+      "description": "Webpack is a bundler that takes modules with dependencies and creates static assets.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"
+    },
+    "windows": {
+      "description": "Windows is Microsoft's GUI-based operating system.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"
+    },
+    "wordplate": {
+      "description": "WordPlate is a modern WordPress stack built with Composer.",
+      "image": "https://raw.githubusercontent.com/github/explore/6f9adf0f327ec1ece2042bb967286acdfc475452/topics/wordplate/wordplate.png"
+    },
+    "wordpress": {
+      "description": "WordPress is a popular content management system, used for websites and blogs.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"
+    },
+    "xamarin": {
+      "description": "Xamarin is a platform for developing iOS and Android applications.",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"
+    }
+  }
