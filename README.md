@@ -1,4 +1,4 @@
-# Tags White List
+# Tags White List (Deprecated)
 On a profile page, you can see someone's experience in different programming and other technologies. Since there are thousands of different technologies we use a white list to select technologies that might be visible someone's profile page. 
 If a technology is not on this list then it won't be visible on the profile page even if you added as a topic to your repository or as a tag on StackOverflow.
 # How To Contribute?
